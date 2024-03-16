@@ -1,2 +1,2 @@
 # password-manager
-Password Manager with GUI coded in python using Tkinter 
+Password Manager and Generator with GUI coded in python using Tkinter 
